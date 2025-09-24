@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-09-2025 : 07:21:26",
+  "last_update": "24-09-2025 : 07:37:13",
   "total_links": 3,
   "events": [
     {
       "title": "South Australia Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "South Australia Men need 91 runs from 69 balls",
+      "toss_result": "South Australia Men need 79 runs from 51 balls",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24328/south-australia-men-western-australia-men-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "Western Australia Women vs Queensland Fire",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Queensland Fire are 91 for 2 with 29.5 overs left",
+      "toss_result": "Western Australia Women won the toss and elected to bowl.",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24329/western-australia-women-queensland-fire-wncl-2025-26",
       "m3u8_link": ""
