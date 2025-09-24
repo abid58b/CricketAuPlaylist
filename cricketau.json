@@ -1,0 +1,26 @@
+{
+  "Author": "Abid",
+  "For Update": "DM me on Telegram @MAbidOfficial",
+  "last_update": "24-09-2025 : 04:58:00",
+  "total_links": 2,
+  "events": [
+    {
+      "title": "South Australia Men vs Western Australia Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Live",
+      "toss_result": "South Australia Men need 262 runs to win from 45.2 overs",
+      "venue": "Karen Rolton Oval, Adelaide",
+      "match_link": "https://www.cricket.com.au/matches/CA:24328/south-australia-men-western-australia-men-one-day-cup-2025-26",
+      "m3u8_link": "M3U8 Link Nahi Mila"
+    },
+    {
+      "title": "Australia U19 Men vs India U19 Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3183.png",
+      "status": "Live",
+      "toss_result": "India Under 19s are 40 for 1 with 39.3 overs left",
+      "venue": "Ian Healy Oval, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:23759/australia-u19-men-india-u19-men-australia-v-india-odis-2025-u19-men",
+      "m3u8_link": "M3U8 Link Nahi Mila"
+    }
+  ]
+}
