@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-09-2025 : 06:31:17",
+  "last_update": "24-09-2025 : 06:55:38",
   "total_links": 3,
   "events": [
     {
       "title": "South Australia Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "South Australia Men need 151 runs from 138 balls",
+      "toss_result": "South Australia Men need 113 runs from 102 balls",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24328/south-australia-men-western-australia-men-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Australia U19 Men vs India U19 Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3183.png",
       "status": "Live",
-      "toss_result": "India Under 19s are 198 for 3 with 17.4 overs left",
+      "toss_result": "Australia Under 19s won the toss and elected to bowl.",
       "venue": "Ian Healy Oval, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:23759/australia-u19-men-india-u19-men-australia-v-india-odis-2025-u19-men",
       "m3u8_link": ""
