@@ -1,0 +1,55 @@
+name: Update JSON M3U File
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v4
+
+      - name: Python ko set karen
+        # Python 3.x ko set karta hai
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Zaruri packages ko install karen
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright python-dotenv
+
+      - name: Playwright browsers ko install karen
+        run: python -m playwright install --with-deps
+
+      - name: Python script ko run karen
+        env:
+          CRICKET_AU_EMAIL: ${{ secrets.CRICKET_AU_EMAIL }}
+          CRICKET_AU_PASSWORD: ${{ secrets.CRICKET_AU_PASSWORD }}
+        run: |
+          curl -L -o cricketau.py ${{ secrets.CRICKET_AU_SCRIPT }}
+          python cricketau.py
+
+      - name: Changes ko commit karen
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/CricketAuPlaylist.git
+
+      - name: Commit and push changes
+        run: |
+          git add cricketau.json cricketau.m3u
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch latest data"
+            git push origin main
+          fi
