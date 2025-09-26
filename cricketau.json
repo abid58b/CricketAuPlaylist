@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-09-2025 : 03:56:14",
+  "last_update": "26-09-2025 : 04:27:22",
   "total_links": 3,
   "events": [
     {
       "title": "Victoria Women vs NSW Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "New South Wales Breakers need 153 runs from 265 balls",
       "venue": "CitiPower Centre, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24330/victoria-women-nsw-women-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "South Australia Women vs Tasmanian Tigers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Tasmania Women need 331 runs from 295 balls",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24331/south-australia-women-tasmanian-tigers-women-wncl-2025-26",
       "m3u8_link": ""
@@ -25,8 +25,8 @@
     {
       "title": "Australia U19 Men vs India U19 Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3183.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Teams will be announced at the toss",
+      "status": "Live",
+      "toss_result": "India Under 19s won the toss and elected to bat.",
       "venue": "Ian Healy Oval, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:23760/australia-u19-men-india-u19-men-australia-v-india-odis-2025-u19-men",
       "m3u8_link": ""
