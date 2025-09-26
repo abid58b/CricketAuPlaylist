@@ -1,17 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-09-2025 : 08:28:44",
+  "last_update": "26-09-2025 : 08:55:27",
   "total_links": 2,
   "events": [
     {
       "title": "Australia U19 Men vs India U19 Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3183.png",
       "status": "Live",
-      "toss_result": "Australia Under 19s need 256 runs from 275 balls",
+      "toss_result": "Australia Under 19s need 233 runs from 236 balls",
       "venue": "Ian Healy Oval, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:23760/australia-u19-men-india-u19-men-australia-v-india-odis-2025-u19-men",
-      "m3u8_link": ""
+      "m3u8_link": "https://bcovlive-a.akamaihd.net/f5fec2a70fa64f86a1bc3ee42e94e355/ap-southeast-2/5833133821001/4819247c158b48f68618f1601c0e37a1/playlist_ssaiM.m3u8"
     },
     {
       "title": "Western Australia Women vs Queensland Fire",
