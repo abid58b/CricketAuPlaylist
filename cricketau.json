@@ -1,8 +1,8 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-09-2025 : 03:41:56",
-  "total_links": 2,
+  "last_update": "26-09-2025 : 03:56:14",
+  "total_links": 3,
   "events": [
     {
       "title": "Victoria Women vs NSW Women",
@@ -17,9 +17,18 @@
       "title": "South Australia Women vs Tasmanian Tigers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "South Australia Women won the toss and elected to bat.",
+      "toss_result": "Innings Break",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24331/south-australia-women-tasmanian-tigers-women-wncl-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Australia U19 Men vs India U19 Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3183.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "Ian Healy Oval, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:23760/australia-u19-men-india-u19-men-australia-v-india-odis-2025-u19-men",
       "m3u8_link": ""
     }
   ]
