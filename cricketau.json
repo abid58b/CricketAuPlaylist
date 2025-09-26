@@ -1,23 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-09-2025 : 06:34:16",
-  "total_links": 3,
+  "last_update": "26-09-2025 : 06:57:17",
+  "total_links": 2,
   "events": [
-    {
-      "title": "Victoria Women vs NSW Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
-      "status": "Live",
-      "toss_result": "New South Wales Breakers need 32 runs to win from 9.5 overs",
-      "venue": "CitiPower Centre, Melbourne",
-      "match_link": "https://www.cricket.com.au/matches/CA:24330/victoria-women-nsw-women-wncl-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "South Australia Women vs Tasmanian Tigers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Tasmania Women need 134 runs to win from 13.2 overs",
+      "toss_result": "Tasmania Women need 95 runs from 45 balls",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24331/south-australia-women-tasmanian-tigers-women-wncl-2025-26",
       "m3u8_link": ""
