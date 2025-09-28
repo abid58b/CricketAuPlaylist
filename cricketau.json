@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "28-09-2025 : 04:25:09",
+  "last_update": "28-09-2025 : 04:49:22",
   "total_links": 2,
   "events": [
     {
       "title": "Victoria Women vs NSW Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Victoria Women need 231 runs from 254 balls",
+      "toss_result": "Victoria Women need 205 runs from 217 balls",
       "venue": "CitiPower Centre, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24333/victoria-women-nsw-women-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "South Australia Women vs Tasmanian Tigers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "South Australia Women are 196 all out with 3.4 overs left",
+      "toss_result": "Innings Break",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24334/south-australia-women-tasmanian-tigers-women-wncl-2025-26",
       "m3u8_link": ""
