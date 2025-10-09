@@ -1,16 +1,34 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "08-10-2025 : 23:49:07",
-  "total_links": 1,
+  "last_update": "09-10-2025 : 01:27:59",
+  "total_links": 3,
   "events": [
     {
       "title": "NSW Women vs Western Australia Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "New South Wales Breakers are 43 for 1 with 39.4 overs left",
+      "toss_result": "New South Wales Breakers won the toss and elected to bat.",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24343/nsw-women-western-australia-women-wncl-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Queensland Bulls vs Tasmanian Tigers Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Live",
+      "toss_result": "Tasmania won the toss and elected to bowl.",
+      "venue": "Allan Border Field, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:24339/queensland-bulls-tasmanian-tigers-men-one-day-cup-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "South Australia Men vs Victoria Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Live",
+      "toss_result": "South Australia Men are 74 for 3 with 38.5 overs left",
+      "venue": "Adelaide Oval, Adelaide",
+      "match_link": "https://www.cricket.com.au/matches/CA:24340/south-australia-men-victoria-men-one-day-cup-2025-26",
       "m3u8_link": ""
     }
   ]
