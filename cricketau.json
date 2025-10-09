@@ -1,32 +1,23 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "09-10-2025 : 07:25:13",
-  "total_links": 3,
+  "last_update": "09-10-2025 : 07:37:13",
+  "total_links": 2,
   "events": [
     {
       "title": "Queensland Bulls vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "Tasmania need 37 runs from 35 balls",
+      "toss_result": "Tasmania need 9 runs from 15 balls",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24339/queensland-bulls-tasmanian-tigers-men-one-day-cup-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "South Australia Men vs Victoria Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
-      "status": "Live",
-      "toss_result": "Victoria need 93 runs from 58 balls",
-      "venue": "Adelaide Oval, Adelaide",
-      "match_link": "https://www.cricket.com.au/matches/CA:24340/south-australia-men-victoria-men-one-day-cup-2025-26",
       "m3u8_link": ""
     },
     {
       "title": "Western Australia Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "New South Wales are 132 for 2 with 33.0 overs left",
+      "toss_result": "Western Australia won the toss and elected to bowl.",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24341/western-australia-men-nsw-men-one-day-cup-2025-26",
       "m3u8_link": ""
