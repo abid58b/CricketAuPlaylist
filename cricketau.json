@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "09-10-2025 : 05:24:48",
+  "last_update": "09-10-2025 : 05:42:37",
   "total_links": 3,
   "events": [
     {
       "title": "NSW Women vs Western Australia Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Western Australia Women need 98 runs from 77 balls",
+      "toss_result": "Western Australia Women need 68 runs from 49 balls",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24343/nsw-women-western-australia-women-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "Drinks Break: Tasmania need 184 runs to win from 32.0 overs",
+      "toss_result": "Tasmania need 161 runs from 167 balls",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24339/queensland-bulls-tasmanian-tigers-men-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "South Australia Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "Victoria need 241 runs from 238 balls",
+      "toss_result": "Victoria need 227 runs to win from 36.1 overs",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24340/south-australia-men-victoria-men-one-day-cup-2025-26",
       "m3u8_link": ""
