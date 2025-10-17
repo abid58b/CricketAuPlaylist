@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "17-10-2025 : 05:42:08",
+  "last_update": "17-10-2025 : 05:52:28",
   "total_links": 3,
   "events": [
     {
       "title": "Victoria Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "New South Wales need 63 runs to win",
+      "toss_result": "New South Wales need 58 runs to win",
       "venue": "CitiPower Centre, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24347/victoria-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Tasmanian Tigers Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia need 116 runs to win",
+      "toss_result": "Western Australia need 114 runs to win",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24348/tasmanian-tigers-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "South Australia Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men trail Queensland by 40 runs with 8 wickets remaining",
+      "toss_result": "South Australia Men trail Queensland by 30 runs with 8 wickets remaining",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24349/south-australia-men-queensland-bulls-sheffield-shield-2025-26",
       "m3u8_link": ""
