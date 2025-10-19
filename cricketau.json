@@ -1,7 +1,26 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-10-2025 : 15:31:11",
-  "total_links": 0,
-  "events": []
+  "last_update": "19-10-2025 : 23:51:16",
+  "total_links": 2,
+  "events": [
+    {
+      "title": "Tasmanian Tigers Men vs Western Australia Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Live",
+      "toss_result": "Western Australia won the toss and elected to bat.",
+      "venue": "Bellerive Oval, Hobart",
+      "match_link": "https://www.cricket.com.au/matches/CA:24351/tasmanian-tigers-men-western-australia-men-one-day-cup-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Victoria Men vs NSW Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Start delayed due to rain",
+      "venue": "CitiPower Centre, Melbourne",
+      "match_link": "https://www.cricket.com.au/matches/CA:24350/victoria-men-nsw-men-one-day-cup-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
