@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-10-2025 : 04:53:51",
+  "last_update": "21-10-2025 : 05:22:22",
   "total_links": 2,
   "events": [
     {
       "title": "Sydney Thunder Women vs ACT Meteors",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
       "status": "Live",
-      "toss_result": "ACT Meteors are 124 for 8 with 1.3 overs left",
+      "toss_result": "Sydney Thunder Women need 114 runs from 110 balls",
       "venue": "North Sydney Oval, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24355/sydney-thunder-women-act-meteors-t20-spring-challenge-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Adelaide Strikers Women vs Melbourne Stars Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Adelaide Strikers Women need 97 runs from 90 balls",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24356/adelaide-strikers-women-melbourne-stars-women-t20-spring-challenge-2025-26",
       "m3u8_link": ""
