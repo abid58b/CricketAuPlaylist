@@ -1,8 +1,8 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-10-2025 : 05:50:28",
-  "total_links": 2,
+  "last_update": "23-10-2025 : 06:32:01",
+  "total_links": 1,
   "events": [
     {
       "title": "Australia Men vs India Men",
@@ -11,15 +11,6 @@
       "toss_result": "Australia won the toss and elected to bowl.",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:23415/australia-men-india-men-australia-v-india-odis-2025-men",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Perth Scorchers Women vs Brisbane Heat Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
-      "status": "Live",
-      "toss_result": "Drinks Break: Brisbane Heat Women need 43 runs to win from 10.0 overs",
-      "venue": "Blacktown Olympic Park No.2 Oval, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24360/perth-scorchers-women-brisbane-heat-women-t20-spring-challenge-2025-26",
       "m3u8_link": ""
     }
   ]
