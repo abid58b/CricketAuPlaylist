@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-10-2025 : 01:27:41",
-  "total_links": 1,
+  "last_update": "23-10-2025 : 03:40:19",
+  "total_links": 2,
   "events": [
     {
-      "title": "Adelaide Strikers Women vs ACT Meteors",
+      "title": "Australia Men vs India Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3122.png",
+      "status": "Live",
+      "toss_result": "India are 0 for 0 with 49.5 overs left",
+      "venue": "Adelaide Oval, Adelaide",
+      "match_link": "https://www.cricket.com.au/matches/CA:23415/australia-men-india-men-australia-v-india-odis-2025-men",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Perth Scorchers Women vs Brisbane Heat Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
       "status": "Live",
-      "toss_result": "Adelaide Strikers Women need 86 runs from 54 balls",
+      "toss_result": "Perth Scorchers Women won the toss and elected to bat.",
       "venue": "Blacktown Olympic Park No.2 Oval, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24359/adelaide-strikers-women-act-meteors-t20-spring-challenge-2025-26",
+      "match_link": "https://www.cricket.com.au/matches/CA:24360/perth-scorchers-women-brisbane-heat-women-t20-spring-challenge-2025-26",
       "m3u8_link": ""
     }
   ]
