@@ -1,7 +1,26 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "25-10-2025 : 10:48:16",
-  "total_links": 0,
-  "events": []
+  "last_update": "25-10-2025 : 23:20:20",
+  "total_links": 2,
+  "events": [
+    {
+      "title": "Perth Scorchers Women vs ACT Meteors",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
+      "status": "Live",
+      "toss_result": "ACT Meteors won the toss and elected to bowl.",
+      "venue": "Drummoyne Oval, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:24365/perth-scorchers-women-act-meteors-t20-spring-challenge-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Hobart Hurricanes Women vs Brisbane Heat Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
+      "status": "Live",
+      "toss_result": "Brisbane Heat Women won the toss and elected to bat.",
+      "venue": "North Sydney Oval, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:24366/hobart-hurricanes-women-brisbane-heat-women-t20-spring-challenge-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
