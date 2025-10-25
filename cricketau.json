@@ -1,25 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "25-10-2025 : 06:30:56",
-  "total_links": 2,
+  "last_update": "25-10-2025 : 06:52:38",
+  "total_links": 1,
   "events": [
     {
       "title": "Australia Men vs India Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3122.png",
       "status": "Live",
-      "toss_result": "Australia are 202 for 7 with 10.4 overs left",
+      "toss_result": "Australia won the toss and elected to bat.",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:23416/australia-men-india-men-australia-v-india-odis-2025-men",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Sydney Sixers Women vs Sydney Thunder Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3197.png",
-      "status": "Live",
-      "toss_result": "Sydney Thunder Women need 27 runs from 2 balls",
-      "venue": "North Sydney Oval, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24364/sydney-sixers-women-sydney-thunder-women-t20-spring-challenge-2025-26",
       "m3u8_link": ""
     }
   ]
