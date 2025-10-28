@@ -1,8 +1,8 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "28-10-2025 : 07:37:29",
-  "total_links": 2,
+  "last_update": "28-10-2025 : 07:48:27",
+  "total_links": 1,
   "events": [
     {
       "title": "Western Australia Men vs South Australia Men",
@@ -11,15 +11,6 @@
       "toss_result": "Tea Break: South Australia Men are 215 all out",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24373/western-australia-men-south-australia-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Queensland Bulls vs NSW Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Stumps: No play Tuesday due to rain",
-      "venue": "The Gabba, Brisbane",
-      "match_link": "https://www.cricket.com.au/matches/CA:24371/queensland-bulls-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
