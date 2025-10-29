@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "29-10-2025 : 04:03:03",
+  "last_update": "29-10-2025 : 04:34:03",
   "total_links": 4,
   "events": [
     {
       "title": "Queensland Bulls vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland won the toss and elected to bowl.",
+      "toss_result": "New South Wales are 204 for 2",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24371/queensland-bulls-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Victoria Men vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Tasmania trail Victoria by 97 runs with 3 wickets remaining",
+      "toss_result": "Tea Break: Tasmania trail Victoria by 80 runs with 3 wickets remaining",
       "venue": "CitiPower Centre, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24372/victoria-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "Western Australia Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia trail South Australia Men by 90 runs with 9 wickets remaining",
+      "toss_result": "Western Australia trail South Australia Men by 73 runs with 9 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24373/western-australia-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
