@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "29-10-2025 : 08:56:27",
+  "last_update": "29-10-2025 : 09:23:21",
   "total_links": 2,
   "events": [
     {
       "title": "Western Australia Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia lead South Australia Men by 56 runs with 3 wickets remaining",
+      "toss_result": "Western Australia lead South Australia Men by 78 runs with 1 wicket remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24373/western-australia-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Australia Men vs India Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3123.png",
       "status": "Live",
-      "toss_result": "Rain has stopped play",
+      "toss_result": "Play due to restart at 8:30pm local time",
       "venue": "Manuka Oval, Canberra",
       "match_link": "https://www.cricket.com.au/matches/CA:23417/australia-men-india-men-australia-v-india-t20is-2025-men",
       "m3u8_link": ""
