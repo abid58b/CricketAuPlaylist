@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "30-10-2025 : 07:24:20",
+  "last_update": "30-10-2025 : 07:36:55",
   "total_links": 2,
   "events": [
     {
       "title": "Queensland Bulls vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland trail New South Wales by 201 runs with 6 wickets remaining",
+      "toss_result": "Queensland trail New South Wales by 191 runs with 6 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24371/queensland-bulls-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Western Australia Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men lead Western Australia by 72 runs with 9 wickets remaining",
+      "toss_result": "South Australia Men lead Western Australia by 79 runs with 9 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24373/western-australia-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
