@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "09-11-2025 : 11:17:03",
-  "total_links": 1,
+  "last_update": "09-11-2025 : 23:49:31",
+  "total_links": 2,
   "events": [
     {
-      "title": "Perth Scorchers Women vs Sydney Sixers Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
+      "title": "NSW Men vs Victoria Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Perth Scorchers Women won the toss and elected to bat.",
-      "venue": "WACA Ground, Perth",
-      "match_link": "https://www.cricket.com.au/matches/CA:24282/perth-scorchers-women-sydney-sixers-women-weber-wbbl-11",
+      "toss_result": "Victoria won the toss and elected to bat.",
+      "venue": "SCG, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:24378/nsw-men-victoria-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Tasmanian Tigers Men vs South Australia Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Live",
+      "toss_result": "South Australia Men won the toss and elected to bowl.",
+      "venue": "Bellerive Oval, Hobart",
+      "match_link": "https://www.cricket.com.au/matches/CA:24379/tasmanian-tigers-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
