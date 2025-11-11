@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "10-11-2025 : 23:49:33",
+  "last_update": "11-11-2025 : 01:31:13",
   "total_links": 2,
   "events": [
     {
       "title": "NSW Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Victoria are 356 for 7",
+      "toss_result": "New South Wales trail Victoria by 361 runs with 10 wickets remaining",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24378/nsw-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Tasmanian Tigers Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men trail Tasmania by 112 runs with 7 wickets remaining",
+      "toss_result": "Lunch Break: South Australia Men trail Tasmania by 78 runs with 6 wickets remaining",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24379/tasmanian-tigers-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
