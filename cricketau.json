@@ -1,43 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "11-11-2025 : 07:03:40",
-  "total_links": 4,
+  "last_update": "11-11-2025 : 07:23:04",
+  "total_links": 1,
   "events": [
-    {
-      "title": "NSW Men vs Victoria Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Victoria lead New South Wales by 308 runs with 8 wickets remaining",
-      "venue": "SCG, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24378/nsw-men-victoria-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Tasmanian Tigers Men vs South Australia Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Tasmania lead South Australia Men by 164 runs with 7 wickets remaining",
-      "venue": "Bellerive Oval, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:24379/tasmanian-tigers-men-south-australia-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "Western Australia Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia won the toss and elected to bowl.",
+      "toss_result": "Tea Break: Queensland are 2-172",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24380/western-australia-men-queensland-bulls-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Melbourne Renegades Women vs Sydney Thunder Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
-      "status": "Live",
-      "toss_result": "Melbourne Renegades Women need 4 runs from 15 balls",
-      "venue": "CitiPower Centre, Melbourne",
-      "match_link": "https://www.cricket.com.au/matches/CA:24284/melbourne-renegades-women-sydney-thunder-women-weber-wbbl-11",
       "m3u8_link": ""
     }
   ]
