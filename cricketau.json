@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "12-11-2025 : 04:27:46",
+  "last_update": "12-11-2025 : 04:54:33",
   "total_links": 2,
   "events": [
     {
       "title": "NSW Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Tea Break: New South Wales need 384 runs to win",
+      "toss_result": "New South Wales need 364 runs to win",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24378/nsw-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Western Australia Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia trail Queensland by 376 runs with 10 wickets remaining",
+      "toss_result": "Lunch Break: Western Australia trail Queensland by 365 runs with 10 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24380/western-australia-men-queensland-bulls-sheffield-shield-2025-26",
       "m3u8_link": ""
