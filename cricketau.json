@@ -1,23 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "13-11-2025 : 09:51:37",
-  "total_links": 2,
+  "last_update": "13-11-2025 : 10:24:05",
+  "total_links": 1,
   "events": [
-    {
-      "title": "Western Australia Men vs Queensland Bulls",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Queensland lead Western Australia by 251 runs with 4 wickets remaining",
-      "venue": "WACA Ground, Perth",
-      "match_link": "https://www.cricket.com.au/matches/CA:24380/western-australia-men-queensland-bulls-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "Sydney Sixers Women vs Hobart Hurricanes Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Hobart Hurricanes Women need 85 runs to win from 12.2 overs",
       "venue": "North Sydney Oval, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24286/sydney-sixers-women-hobart-hurricanes-women-weber-wbbl-11",
       "m3u8_link": ""
