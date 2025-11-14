@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "14-11-2025 : 04:26:42",
-  "total_links": 1,
+  "last_update": "14-11-2025 : 04:52:05",
+  "total_links": 2,
   "events": [
     {
       "title": "Western Australia Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia need 212 runs to win",
+      "toss_result": "Lunch Break: Western Australia need 199 runs to win",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24380/western-australia-men-queensland-bulls-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Perth Scorchers Women vs Melbourne Stars Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
+      "status": "Live",
+      "toss_result": "Perth Scorchers Women won the toss and elected to bowl.",
+      "venue": "Karen Rolton Oval, Adelaide",
+      "match_link": "https://www.cricket.com.au/matches/CA:24287/perth-scorchers-women-melbourne-stars-women-weber-wbbl-11",
       "m3u8_link": ""
     }
   ]
