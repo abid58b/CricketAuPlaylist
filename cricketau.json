@@ -1,17 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-11-2025 : 10:51:39",
-  "total_links": 1,
-  "events": [
-    {
-      "title": "Sydney Thunder Women vs Perth Scorchers Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
-      "status": "Live",
-      "toss_result": "Sydney Thunder Women need 33 runs from 29 balls",
-      "venue": "Drummoyne Oval, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24294/sydney-thunder-women-perth-scorchers-women-weber-wbbl-11",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "20-11-2025 : 03:51:51",
+  "total_links": 0,
+  "events": []
 }
