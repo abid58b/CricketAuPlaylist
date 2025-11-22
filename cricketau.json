@@ -1,34 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "22-11-2025 : 01:26:58",
-  "total_links": 3,
+  "last_update": "22-11-2025 : 02:55:22",
+  "total_links": 2,
   "events": [
     {
-      "title": "Hobart Hurricanes Women vs Sydney Sixers Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
+      "title": "Australia Men vs England Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "Hobart Hurricanes Women need 75 runs from 62 balls",
-      "venue": "Ninja Stadium, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:24298/hobart-hurricanes-women-sydney-sixers-women-weber-wbbl-11",
+      "toss_result": "Innings Break: Australia trail England by 40 runs",
+      "venue": "Perth Stadium, Perth",
+      "match_link": "https://www.cricket.com.au/matches/CA:21888/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
     },
     {
       "title": "NSW Men vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Play due to restart at 12:24pm local time",
+      "toss_result": "Tasmania won the toss and elected to bowl.",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24382/nsw-men-tasmanian-tigers-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Australia Men vs England Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Stumps: Australia trail England by 49 runs with 1 wicket remaining",
-      "venue": "Perth Stadium, Perth",
-      "match_link": "https://www.cricket.com.au/matches/CA:21888/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
     }
   ]
