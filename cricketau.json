@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "22-11-2025 : 04:00:22",
+  "last_update": "22-11-2025 : 04:28:10",
   "total_links": 4,
   "events": [
     {
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "England lead Australia by 85 runs with 9 wickets remaining",
+      "toss_result": "England lead Australia by 99 runs with 9 wickets remaining",
       "venue": "Perth Stadium, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:21888/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "NSW Men vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Drinks Break: New South Wales are 2-127",
+      "toss_result": "New South Wales are 149 for 2",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24382/nsw-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -25,8 +25,8 @@
     {
       "title": "Queensland Bulls vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Teams will be announced at the toss",
+      "status": "Live",
+      "toss_result": "Victoria are 10 for 1",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24383/queensland-bulls-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
