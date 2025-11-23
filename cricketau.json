@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-11-2025 : 09:22:53",
+  "last_update": "23-11-2025 : 09:39:17",
   "total_links": 3,
   "events": [
     {
       "title": "South Australia Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men trail Western Australia by 185 runs with 10 wickets remaining",
+      "toss_result": "South Australia Men trail Western Australia by 181 runs with 10 wickets remaining",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24384/south-australia-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland trail Victoria by 80 runs with 6 wickets remaining",
+      "toss_result": "Queensland trail Victoria by 61 runs with 6 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24383/queensland-bulls-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "Brisbane Heat Women vs Melbourne Stars Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
       "status": "Live",
-      "toss_result": "Melbourne Stars Women are 6 for 1 with 18.4 overs left",
+      "toss_result": "Melbourne Stars Women won the toss and elected to bat.",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24301/brisbane-heat-women-melbourne-stars-women-weber-wbbl-11",
       "m3u8_link": ""
