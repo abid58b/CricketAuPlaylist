@@ -1,25 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-11-2025 : 11:36:05",
-  "total_links": 2,
+  "last_update": "24-11-2025 : 11:48:23",
+  "total_links": 1,
   "events": [
     {
       "title": "Queensland Bulls vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Victoria lead Queensland by 15 runs with 2 wickets remaining",
+      "toss_result": "Victoria lead Queensland by 18 runs with 2 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24383/queensland-bulls-victoria-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "South Australia Men vs Western Australia Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Stumps: Western Australia trail South Australia Men by 60 runs with 8 wickets remaining",
-      "venue": "Adelaide Oval, Adelaide",
-      "match_link": "https://www.cricket.com.au/matches/CA:24384/south-australia-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
