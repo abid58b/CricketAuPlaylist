@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "24-11-2025 : 07:50:43",
-  "total_links": 3,
+  "last_update": "24-11-2025 : 08:32:16",
+  "total_links": 2,
   "events": [
     {
       "title": "South Australia Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men lead Western Australia by 76 runs with 4 wickets remaining",
+      "toss_result": "South Australia Men lead Western Australia by 115 runs with 2 wickets remaining",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24384/south-australia-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,18 +17,9 @@
       "title": "Queensland Bulls vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Innings Break: Queensland lead Victoria by 112 runs",
+      "toss_result": "Victoria trail Queensland by 104 runs with 8 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24383/queensland-bulls-victoria-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "NSW Men vs Tasmanian Tigers Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Stumps: New South Wales trail Tasmania by 223 runs with 10 wickets remaining",
-      "venue": "Cricket Central, Sydney Olympic Park",
-      "match_link": "https://www.cricket.com.au/matches/CA:24382/nsw-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
