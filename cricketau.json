@@ -1,8 +1,8 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "29-11-2025 : 06:56:01",
-  "total_links": 2,
+  "last_update": "29-11-2025 : 07:19:42",
+  "total_links": 1,
   "events": [
     {
       "title": "Prime Minister's XI vs England XI",
@@ -12,15 +12,6 @@
       "venue": "Manuka Oval, Canberra",
       "match_link": "https://www.cricket.com.au/matches/CA:24528/prime-minister-s-xi-england-xi-prime-minister-s-xi-v-england-men",
       "m3u8_link": "https://cnradioalive-a.akamaihd.net/7cfc84c6aff44819a90b4ac400b1810b/ap-southeast-2/5833133821001/playlist.m3u8"
-    },
-    {
-      "title": "Melbourne Renegades Women vs Melbourne Stars Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
-      "status": "Live",
-      "toss_result": "Melbourne Renegades Women need 69 runs from 36 balls",
-      "venue": "CitiPower Centre, Melbourne",
-      "match_link": "https://www.cricket.com.au/matches/CA:24307/melbourne-renegades-women-melbourne-stars-women-weber-wbbl-11",
-      "m3u8_link": ""
     }
   ]
 }
