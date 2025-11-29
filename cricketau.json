@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "29-11-2025 : 10:41:39",
+  "last_update": "29-11-2025 : 10:52:34",
   "total_links": 2,
   "events": [
     {
       "title": "Prime Minister's XI vs England XI",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3215.png",
       "status": "Live",
-      "toss_result": "Prime Minister's XI won the toss and elected to bat.",
+      "toss_result": "Innings Break: Prime Minister's XI are 8-308",
       "venue": "Manuka Oval, Canberra",
       "match_link": "https://www.cricket.com.au/matches/CA:24528/prime-minister-s-xi-england-xi-prime-minister-s-xi-v-england-men",
       "m3u8_link": "https://cnradioalive-a.akamaihd.net/7cfc84c6aff44819a90b4ac400b1810b/ap-southeast-2/5833133821001/playlist.m3u8"
@@ -17,7 +17,7 @@
       "title": "Hobart Hurricanes Women vs Perth Scorchers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
       "status": "Live",
-      "toss_result": "Hobart Hurricanes Women need 85 runs from 56 balls",
+      "toss_result": "Hobart Hurricanes Women need 63 runs from 42 balls",
       "venue": "Ninja Stadium, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24308/hobart-hurricanes-women-perth-scorchers-women-weber-wbbl-11",
       "m3u8_link": ""
