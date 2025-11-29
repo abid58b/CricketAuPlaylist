@@ -1,17 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "28-11-2025 : 10:51:06",
+  "last_update": "29-11-2025 : 03:53:46",
   "total_links": 1,
   "events": [
     {
-      "title": "Adelaide Strikers Women vs Sydney Thunder Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
+      "title": "Prime Minister's XI vs England XI",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3215.png",
       "status": "Live",
-      "toss_result": "Sydney Thunder Women need 21 runs from 21 balls",
-      "venue": "Adelaide Oval, Adelaide",
-      "match_link": "https://www.cricket.com.au/matches/CA:24306/adelaide-strikers-women-sydney-thunder-women-weber-wbbl-11",
-      "m3u8_link": ""
+      "toss_result": "Prime Minister's XI won the toss and elected to bat.",
+      "venue": "Manuka Oval, Canberra",
+      "match_link": "https://www.cricket.com.au/matches/CA:24528/prime-minister-s-xi-england-xi-prime-minister-s-xi-v-england-men",
+      "m3u8_link": "https://cnradioalive-a.akamaihd.net/7cfc84c6aff44819a90b4ac400b1810b/ap-southeast-2/5833133821001/playlist.m3u8"
     }
   ]
 }
