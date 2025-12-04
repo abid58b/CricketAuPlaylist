@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "04-12-2025 : 04:49:14",
+  "last_update": "04-12-2025 : 05:23:07",
   "total_links": 2,
   "events": [
     {
       "title": "Victoria Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia are 158 for 6",
+      "toss_result": "Victoria won the toss and elected to bowl.",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24386/victoria-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "England are 32 for 2",
+      "toss_result": "England won the toss and elected to bat.",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:21889/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
