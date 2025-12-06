@@ -1,25 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-12-2025 : 07:35:07",
-  "total_links": 2,
+  "last_update": "06-12-2025 : 07:46:38",
+  "total_links": 1,
   "events": [
     {
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "Australia lead England by 157 runs with 2 wickets remaining",
+      "toss_result": "Drinks Break: Australia lead England by 162 runs with 1 wicket remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:21889/australia-men-england-men-men-s-ashes-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "South Australia Men vs Tasmanian Tigers Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Tasmania trail South Australia Men by 158 runs with 7 wickets remaining",
-      "venue": "Adelaide Oval, Adelaide",
-      "match_link": "https://www.cricket.com.au/matches/CA:24388/south-australia-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
