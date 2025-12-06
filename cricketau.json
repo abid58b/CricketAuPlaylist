@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-12-2025 : 23:21:30",
-  "total_links": 2,
+  "last_update": "06-12-2025 : 23:36:57",
+  "total_links": 3,
   "events": [
     {
       "title": "Victoria Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia lead Victoria by 47 runs with 6 wickets remaining",
+      "toss_result": "Western Australia lead Victoria by 59 runs with 6 wickets remaining",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24386/victoria-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -16,10 +16,19 @@
     {
       "title": "NSW Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
+      "status": "Live",
       "toss_result": "Queensland trail New South Wales by 404 runs with 3 wickets remaining",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24387/nsw-men-queensland-bulls-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Sydney Sixers Women vs Adelaide Strikers Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "North Sydney Oval, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:24319/sydney-sixers-women-adelaide-strikers-women-weber-wbbl-11",
       "m3u8_link": ""
     }
   ]
