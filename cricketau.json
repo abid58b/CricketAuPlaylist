@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-12-2025 : 09:47:48",
+  "last_update": "06-12-2025 : 10:21:32",
   "total_links": 2,
   "events": [
     {
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "England trail Australia by 105 runs with 9 wickets remaining",
+      "toss_result": "England trail Australia by 80 runs with 8 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:21889/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Perth Scorchers Women vs Brisbane Heat Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Perth Scorchers Women need 113 runs from 82 balls",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24318/perth-scorchers-women-brisbane-heat-women-weber-wbbl-11",
       "m3u8_link": ""
