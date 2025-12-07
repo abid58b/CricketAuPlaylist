@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-12-2025 : 06:32:23",
+  "last_update": "07-12-2025 : 06:56:48",
   "total_links": 3,
   "events": [
     {
       "title": "Victoria Men vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Victoria need 36 runs to win",
+      "toss_result": "Victoria need 9 runs to win",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24386/victoria-men-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "Tea Break: England lead Australia by 16 runs with 4 wickets remaining",
+      "toss_result": "England lead Australia by 19 runs with 4 wickets remaining",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:21889/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "NSW Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland need 386 runs to win",
+      "toss_result": "Queensland need 355 runs to win",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24387/nsw-men-queensland-bulls-sheffield-shield-2025-26",
       "m3u8_link": ""
