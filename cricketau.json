@@ -1,17 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "09-12-2025 : 11:48:19",
-  "total_links": 1,
-  "events": [
-    {
-      "title": "Perth Scorchers Women vs Melbourne Stars Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3193.png",
-      "status": "Live",
-      "toss_result": "Melbourne Stars Women need 40 runs from 16 balls",
-      "venue": "WACA Ground, Perth",
-      "match_link": "https://www.cricket.com.au/matches/CA:24320/perth-scorchers-women-melbourne-stars-women-weber-wbbl-11",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "09-12-2025 : 13:36:15",
+  "total_links": 0,
+  "events": []
 }
