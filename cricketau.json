@@ -1,7 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-12-2025 : 22:20:44",
-  "total_links": 0,
-  "events": []
+  "last_update": "19-12-2025 : 22:41:39",
+  "total_links": 1,
+  "events": [
+    {
+      "title": "Australia Men vs England Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Stumps: Australia lead England by 356 runs with 6 wickets remaining",
+      "venue": "Adelaide Oval, Adelaide",
+      "match_link": "https://www.cricket.com.au/matches/CA:21890/australia-men-england-men-men-s-ashes-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
