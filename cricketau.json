@@ -1,7 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "26-12-2025 : 15:49:32",
-  "total_links": 0,
-  "events": []
+  "last_update": "26-12-2025 : 23:37:41",
+  "total_links": 1,
+  "events": [
+    {
+      "title": "Australia Men vs England Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
+      "status": "Live",
+      "toss_result": "Australia lead England by 46 runs with 10 wickets remaining",
+      "venue": "MCG, Melbourne",
+      "match_link": "https://www.cricket.com.au/matches/CA:21891/australia-men-england-men-men-s-ashes-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
