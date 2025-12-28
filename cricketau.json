@@ -1,17 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "28-12-2025 : 10:43:18",
-  "total_links": 1,
-  "events": [
-    {
-      "title": "Melbourne Stars Men vs Sydney Thunder Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3185.png",
-      "status": "Live",
-      "toss_result": "Melbourne Stars need 45 runs from 66 balls",
-      "venue": "Corroboree Group Oval Manuka, Canberra",
-      "match_link": "https://www.cricket.com.au/matches/CA:23776/melbourne-stars-men-sydney-thunder-men-kfc-bbl-15",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "28-12-2025 : 13:44:29",
+  "total_links": 0,
+  "events": []
 }
