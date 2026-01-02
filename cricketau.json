@@ -1,16 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "01-01-2026 : 11:34:43",
+  "last_update": "02-01-2026 : 08:30:09",
   "total_links": 1,
   "events": [
     {
-      "title": "Hobart Hurricanes Men vs Perth Scorchers Men",
+      "title": "Brisbane Heat Men vs Melbourne Stars Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3185.png",
       "status": "Live",
-      "toss_result": "Hobart Hurricanes need 58 runs from 12 balls",
-      "venue": "Ninja Stadium, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:23781/hobart-hurricanes-men-perth-scorchers-men-kfc-bbl-15",
+      "toss_result": "Melbourne Stars are 28 for 0 with 18.1 overs left",
+      "venue": "The Gabba, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:23782/brisbane-heat-men-melbourne-stars-men-kfc-bbl-15",
       "m3u8_link": ""
     }
   ]
