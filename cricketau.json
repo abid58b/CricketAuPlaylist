@@ -1,16 +1,16 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-01-2026 : 11:34:42",
+  "last_update": "03-01-2026 : 08:28:23",
   "total_links": 1,
   "events": [
     {
-      "title": "Brisbane Heat Men vs Melbourne Stars Men",
+      "title": "Sydney Thunder Men vs Hobart Hurricanes Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3185.png",
       "status": "Live",
-      "toss_result": "Brisbane Heat need 18 runs to win from 1.2 overs",
-      "venue": "The Gabba, Brisbane",
-      "match_link": "https://www.cricket.com.au/matches/CA:23782/brisbane-heat-men-melbourne-stars-men-kfc-bbl-15",
+      "toss_result": "Hobart Hurricanes won the toss and elected to bowl.",
+      "venue": "ENGIE Stadium, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:23783/sydney-thunder-men-hobart-hurricanes-men-kfc-bbl-15",
       "m3u8_link": ""
     }
   ]
