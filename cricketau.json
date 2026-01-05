@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "05-01-2026 : 11:21:13",
-  "total_links": 1,
+  "last_update": "05-01-2026 : 23:22:51",
+  "total_links": 2,
   "events": [
     {
-      "title": "Sydney Sixers Men vs Brisbane Heat Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3185.png",
+      "title": "Australia Men vs England Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "Sydney Sixers need 27 runs from 26 balls",
-      "venue": "C.ex Coffs International Stadium, Coffs Harbour",
-      "match_link": "https://www.cricket.com.au/matches/CA:23786/sydney-sixers-men-brisbane-heat-men-kfc-bbl-15",
+      "toss_result": "Australia trail England by 211 runs with 8 wickets remaining",
+      "venue": "SCG, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:21892/australia-men-england-men-men-s-ashes-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "ACT Meteors vs Victoria Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
+      "status": "Live",
+      "toss_result": "Victoria Women are 6 for 3 with 47.0 overs left",
+      "venue": "EPC Solar Park, Canberra",
+      "match_link": "https://www.cricket.com.au/matches/CA:24390/act-meteors-victoria-women-wncl-2025-26",
       "m3u8_link": ""
     }
   ]
