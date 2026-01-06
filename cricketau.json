@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-01-2026 : 03:33:55",
+  "last_update": "06-01-2026 : 04:31:09",
   "total_links": 3,
   "events": [
     {
       "title": "Australia Men vs England Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3014.png",
       "status": "Live",
-      "toss_result": "Australia trail England by 48 runs with 6 wickets remaining",
+      "toss_result": "Australia trail England by 7 runs with 4 wickets remaining",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:21892/australia-men-england-men-men-s-ashes-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "ACT Meteors vs Victoria Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "ACT Meteors need 70 runs from 189 balls",
+      "toss_result": "ACT Meteors need 5 runs to win from 17.1 overs",
       "venue": "EPC Solar Park, Canberra",
       "match_link": "https://www.cricket.com.au/matches/CA:24390/act-meteors-victoria-women-wncl-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "Tasmanian Tigers Women vs Queensland Fire",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Tasmania Women need 287 runs to win from 49.5 overs",
+      "toss_result": "Tasmania Women need 238 runs from 216 balls",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24391/tasmanian-tigers-women-queensland-fire-wncl-2025-26",
       "m3u8_link": ""
