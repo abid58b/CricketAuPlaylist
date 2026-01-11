@@ -1,7 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "10-01-2026 : 16:53:20",
-  "total_links": 0,
-  "events": []
+  "last_update": "11-01-2026 : 03:51:27",
+  "total_links": 1,
+  "events": [
+    {
+      "title": "Sydney Sixers Men vs Hobart Hurricanes Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3185.png",
+      "status": "Live",
+      "toss_result": "Rain has stopped play",
+      "venue": "SCG, Sydney",
+      "match_link": "https://www.cricket.com.au/matches/CA:23793/sydney-sixers-men-hobart-hurricanes-men-kfc-bbl-15",
+      "m3u8_link": ""
+    }
+  ]
 }
