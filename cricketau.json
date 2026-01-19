@@ -1,7 +1,26 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-01-2026 : 17:53:36",
-  "total_links": 0,
-  "events": []
+  "last_update": "19-01-2026 : 23:24:09",
+  "total_links": 2,
+  "events": [
+    {
+      "title": "ACT Meteors vs NSW Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
+      "status": "Live",
+      "toss_result": "New South Wales Breakers won the toss and elected to bowl.",
+      "venue": "EPC Solar Park, Canberra",
+      "match_link": "https://www.cricket.com.au/matches/CA:24396/act-meteors-nsw-women-wncl-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Queensland Fire vs South Australia Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "Allan Border Field, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:24395/queensland-fire-south-australia-women-wncl-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
