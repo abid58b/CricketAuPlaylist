@@ -1,17 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "30-01-2026 : 06:06:06",
-  "total_links": 1,
-  "events": [
-    {
-      "title": "Tasmanian Tigers Women vs Western Australia Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
-      "status": "Live",
-      "toss_result": "Western Australia Women need 45 runs from 64 balls",
-      "venue": "Bellerive Oval, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:24400/tasmanian-tigers-women-western-australia-women-wncl-2025-26",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "30-01-2026 : 07:56:24",
+  "total_links": 0,
+  "events": []
 }
