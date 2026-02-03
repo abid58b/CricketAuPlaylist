@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "03-02-2026 : 02:47:49",
+  "last_update": "03-02-2026 : 04:50:48",
   "total_links": 3,
   "events": [
     {
       "title": "NSW Women vs Queensland Fire",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "New South Wales Breakers are 309 for 7",
+      "toss_result": "Queensland Fire need 166 runs from 129 balls",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24401/nsw-women-queensland-fire-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Victoria Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Victoria need 89 runs to win from 23.0 overs",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24411/victoria-men-queensland-bulls-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "South Australia Women vs Victoria Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "South Australia Women need 146 runs from 167 balls",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24402/south-australia-women-victoria-women-wncl-2025-26",
       "m3u8_link": ""
