@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "05-02-2026 : 00:03:24",
-  "total_links": 4,
+  "last_update": "05-02-2026 : 02:30:39",
+  "total_links": 5,
   "events": [
     {
       "title": "NSW Women vs Queensland Fire",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Queensland Fire are 52 for 2 with 38.2 overs left",
+      "toss_result": "Innings Break",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24404/nsw-women-queensland-fire-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "South Australia Women vs Victoria Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Victoria Women are 25 for 1 with 44.2 overs left",
+      "toss_result": "South Australia Women won the toss and elected to bowl.",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24405/south-australia-women-victoria-women-wncl-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "NSW Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "New South Wales won the toss and elected to bat.",
+      "toss_result": "New South Wales are 105 for 3",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24406/nsw-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -35,9 +35,18 @@
       "title": "Victoria Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Victoria won the toss and elected to bowl.",
+      "toss_result": "Queensland are 80 for 2",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24407/victoria-men-queensland-bulls-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Western Australia Men vs Tasmanian Tigers Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "WACA Ground, Perth",
+      "match_link": "https://www.cricket.com.au/matches/CA:24408/western-australia-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
