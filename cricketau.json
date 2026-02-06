@@ -1,32 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-02-2026 : 06:40:36",
-  "total_links": 4,
+  "last_update": "06-02-2026 : 07:36:30",
+  "total_links": 2,
   "events": [
-    {
-      "title": "NSW Men vs South Australia Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "New South Wales lead South Australia Men by 155 runs with 6 wickets remaining",
-      "venue": "SCG, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:24406/nsw-men-south-australia-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Victoria Men vs Queensland Bulls",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Queensland lead Victoria by 164 runs with 5 wickets remaining",
-      "venue": "MCG, Melbourne",
-      "match_link": "https://www.cricket.com.au/matches/CA:24407/victoria-men-queensland-bulls-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "Western Australia Men vs Tasmanian Tigers Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Tasmania lead Western Australia by 135 runs with 8 wickets remaining",
+      "toss_result": "Tea Break: Tasmania lead Western Australia by 170 runs with 6 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24408/western-australia-men-tasmanian-tigers-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -35,7 +17,7 @@
       "title": "Tasmanian Tigers Women vs ACT Meteors",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Innings Break",
+      "toss_result": "Tasmania Women need 233 runs from 230 balls",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24409/tasmanian-tigers-women-act-meteors-wncl-2025-26",
       "m3u8_link": ""
