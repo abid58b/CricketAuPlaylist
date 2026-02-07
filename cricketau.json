@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-02-2026 : 00:00:22",
+  "last_update": "07-02-2026 : 02:05:28",
   "total_links": 3,
   "events": [
     {
       "title": "NSW Men vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "New South Wales lead South Australia Men by 206 runs with 6 wickets remaining",
+      "toss_result": "Lunch Break: New South Wales lead South Australia Men by 266 runs with 3 wickets remaining",
       "venue": "SCG, Sydney",
       "match_link": "https://www.cricket.com.au/matches/CA:24406/nsw-men-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Victoria Men vs Queensland Bulls",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland lead Victoria by 191 runs with 3 wickets remaining",
+      "toss_result": "Lunch Break: Victoria need 223 runs to win",
       "venue": "MCG, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24407/victoria-men-queensland-bulls-sheffield-shield-2025-26",
       "m3u8_link": ""
