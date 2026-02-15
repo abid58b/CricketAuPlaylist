@@ -1,17 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "15-02-2026 : 11:00:11",
-  "total_links": 1,
-  "events": [
-    {
-      "title": "Australia Women vs India Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3124.png",
-      "status": "Live",
-      "toss_result": "Rain has stopped play",
-      "venue": "SCG, Sydney",
-      "match_link": "https://www.cricket.com.au/matches/CA:23422/australia-women-india-women-australia-v-india-t20is-women",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "15-02-2026 : 11:30:55",
+  "total_links": 0,
+  "events": []
 }
