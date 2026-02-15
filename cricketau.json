@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "15-02-2026 : 23:34:29",
-  "total_links": 1,
+  "last_update": "15-02-2026 : 23:59:55",
+  "total_links": 2,
   "events": [
     {
       "title": "Victoria Women vs Western Australia Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Victoria Women are 22 for 1 with 43.3 overs left",
+      "toss_result": "Western Australia Women won the toss and elected to bowl.",
       "venue": "Ringwood, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24418/victoria-women-western-australia-women-wncl-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Queensland Bulls vs South Australia Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "The Gabba, Brisbane",
+      "match_link": "https://www.cricket.com.au/matches/CA:24413/queensland-bulls-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
