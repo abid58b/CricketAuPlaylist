@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "16-02-2026 : 02:35:51",
-  "total_links": 3,
+  "last_update": "16-02-2026 : 04:45:27",
+  "total_links": 4,
   "events": [
     {
       "title": "Victoria Women vs Western Australia Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Victoria Women are 250 for 8",
+      "toss_result": "Western Australia Women need 121 runs from 133 balls",
       "venue": "Ringwood, Melbourne",
       "match_link": "https://www.cricket.com.au/matches/CA:24418/victoria-women-western-australia-women-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Lunch Break: Queensland are 4-73",
+      "toss_result": "South Australia Men won the toss and elected to bowl.",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24413/queensland-bulls-south-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -25,10 +25,19 @@
     {
       "title": "Western Australia Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Status Nahi Mila",
-      "toss_result": "Teams will be announced at the toss",
+      "status": "Live",
+      "toss_result": "Lunch Break: Victoria are 0-126",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24414/western-australia-men-victoria-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Tasmanian Tigers Men vs NSW Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Live",
+      "toss_result": "Drinks Break: Tasmania are 3-49",
+      "venue": "Bellerive Oval, Hobart",
+      "match_link": "https://www.cricket.com.au/matches/CA:24415/tasmanian-tigers-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
