@@ -1,16 +1,34 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "17-02-2026 : 02:06:23",
-  "total_links": 1,
+  "last_update": "17-02-2026 : 04:33:53",
+  "total_links": 3,
   "events": [
     {
       "title": "Queensland Bulls vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men trail Queensland by 36 runs with 4 wickets remaining",
+      "toss_result": "South Australia Men lead Queensland by 29 runs",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24413/queensland-bulls-south-australia-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Western Australia Men vs Victoria Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Live",
+      "toss_result": "Western Australia trail Victoria by 428 runs with 10 wickets remaining",
+      "venue": "WACA Ground, Perth",
+      "match_link": "https://www.cricket.com.au/matches/CA:24414/western-australia-men-victoria-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Tasmanian Tigers Men vs NSW Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Live",
+      "toss_result": "New South Wales lead Tasmania by 39 runs with 7 wickets remaining",
+      "venue": "Bellerive Oval, Hobart",
+      "match_link": "https://www.cricket.com.au/matches/CA:24415/tasmanian-tigers-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
