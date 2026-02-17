@@ -1,26 +1,7 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "17-02-2026 : 09:52:46",
-  "total_links": 2,
-  "events": [
-    {
-      "title": "Western Australia Men vs Victoria Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Western Australia trail Victoria by 248 runs with 5 wickets remaining",
-      "venue": "WACA Ground, Perth",
-      "match_link": "https://www.cricket.com.au/matches/CA:24414/western-australia-men-victoria-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Tasmanian Tigers Men vs NSW Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Rain has stopped play",
-      "venue": "Bellerive Oval, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:24415/tasmanian-tigers-men-nsw-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    }
-  ]
+  "last_update": "17-02-2026 : 13:42:02",
+  "total_links": 0,
+  "events": []
 }
