@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "18-02-2026 : 05:51:43",
-  "total_links": 3,
+  "last_update": "18-02-2026 : 07:05:44",
+  "total_links": 2,
   "events": [
     {
       "title": "Western Australia Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Victoria lead Western Australia by 278 runs with 8 wickets remaining",
+      "toss_result": "Victoria lead Western Australia by 349 runs with 6 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24414/western-australia-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,18 +17,9 @@
       "title": "Tasmanian Tigers Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Tea Break: Tasmania trail New South Wales by 158 runs with 10 wickets remaining",
+      "toss_result": "Tasmania trail New South Wales by 133 runs with 9 wickets remaining",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24415/tasmanian-tigers-men-nsw-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
-    {
-      "title": "Victoria Women vs Western Australia Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
-      "status": "Live",
-      "toss_result": "Victoria Women need 61 runs from 42 balls",
-      "venue": "Ringwood, Melbourne",
-      "match_link": "https://www.cricket.com.au/matches/CA:24423/victoria-women-western-australia-women-wncl-2025-26",
       "m3u8_link": ""
     }
   ]
