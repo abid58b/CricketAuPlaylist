@@ -1,16 +1,25 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "19-02-2026 : 07:57:17",
-  "total_links": 1,
+  "last_update": "19-02-2026 : 08:45:48",
+  "total_links": 2,
   "events": [
     {
       "title": "Tasmanian Tigers Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Dinner Break: Tasmania lead New South Wales by 234 runs",
+      "toss_result": "New South Wales need 193 runs to win",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24415/tasmanian-tigers-men-nsw-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Australia Women vs India Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3124.png",
+      "status": "Live",
+      "toss_result": "India Women won the toss and elected to bowl.",
+      "venue": "Manuka Oval, Canberra",
+      "match_link": "https://www.cricket.com.au/matches/CA:23423/australia-women-india-women-australia-v-india-t20is-women",
       "m3u8_link": ""
     }
   ]
