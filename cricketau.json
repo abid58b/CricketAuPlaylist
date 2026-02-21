@@ -1,23 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-02-2026 : 05:19:30",
+  "last_update": "21-02-2026 : 06:03:29",
   "total_links": 3,
   "events": [
-    {
-      "title": "NSW Women vs Tasmanian Tigers Women",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
-      "status": "Live",
-      "toss_result": "Tasmania Women need 95 runs from 76 balls",
-      "venue": "Cricket Central, Sydney Olympic Park",
-      "match_link": "https://www.cricket.com.au/matches/CA:24417/nsw-women-tasmanian-tigers-women-wncl-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "Queensland Bulls vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "South Australia Men need 168 runs to win from 35.4 overs",
+      "toss_result": "South Australia Men need 132 runs from 159 balls",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24416/queensland-bulls-south-australia-men-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -29,6 +20,15 @@
       "toss_result": "New South Wales won the toss and elected to bowl.",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24419/tasmanian-tigers-men-nsw-men-one-day-cup-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Western Australia Men vs Victoria Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Teams will be announced at the toss",
+      "venue": "WACA Ground, Perth",
+      "match_link": "https://www.cricket.com.au/matches/CA:24420/western-australia-men-victoria-men-one-day-cup-2025-26",
       "m3u8_link": ""
     }
   ]
