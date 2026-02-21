@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-02-2026 : 04:24:17",
+  "last_update": "21-02-2026 : 05:19:30",
   "total_links": 3,
   "events": [
     {
       "title": "NSW Women vs Tasmanian Tigers Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
       "status": "Live",
-      "toss_result": "Tasmania Women need 159 runs to win from 26.2 overs",
+      "toss_result": "Tasmania Women need 95 runs from 76 balls",
       "venue": "Cricket Central, Sydney Olympic Park",
       "match_link": "https://www.cricket.com.au/matches/CA:24417/nsw-women-tasmanian-tigers-women-wncl-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs South Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "South Australia Men need 255 runs from 289 balls",
+      "toss_result": "South Australia Men need 168 runs to win from 35.4 overs",
       "venue": "The Gabba, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24416/queensland-bulls-south-australia-men-one-day-cup-2025-26",
       "m3u8_link": ""
