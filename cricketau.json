@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "21-02-2026 : 11:00:17",
+  "last_update": "21-02-2026 : 11:29:07",
   "total_links": 2,
   "events": [
     {
       "title": "Western Australia Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3194.png",
       "status": "Live",
-      "toss_result": "Western Australia need 151 runs from 230 balls",
+      "toss_result": "Western Australia need 109 runs from 189 balls",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:24420/western-australia-men-victoria-men-one-day-cup-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Australia Women vs India Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3124.png",
       "status": "Live",
-      "toss_result": "Australia Women need 96 runs from 54 balls",
+      "toss_result": "Australia Women need 40 runs from 18 balls",
       "venue": "Adelaide Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:23424/australia-women-india-women-australia-v-india-t20is-women",
       "m3u8_link": ""
