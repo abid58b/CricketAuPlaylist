@@ -1,7 +1,17 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "23-02-2026 : 16:47:56",
-  "total_links": 0,
-  "events": []
+  "last_update": "23-02-2026 : 23:33:21",
+  "total_links": 1,
+  "events": [
+    {
+      "title": "ACT Meteors vs South Australia Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3195.png",
+      "status": "Live",
+      "toss_result": "South Australia Women won the toss and elected to bat.",
+      "venue": "EPC Solar Park, Canberra",
+      "match_link": "https://www.cricket.com.au/matches/CA:24424/act-meteors-south-australia-women-wncl-2025-26",
+      "m3u8_link": ""
+    }
+  ]
 }
