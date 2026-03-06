@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-03-2026 : 01:03:49",
+  "last_update": "06-03-2026 : 03:35:17",
   "total_links": 3,
   "events": [
     {
       "title": "Tasmanian Tigers Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Innings Break: Tasmania trail Victoria by 131 runs",
+      "toss_result": "Victoria lead Tasmania by 192 runs with 6 wickets remaining",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24427/tasmanian-tigers-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Drinks Break: Queensland trail Western Australia by 135 runs with 5 wickets remaining",
+      "toss_result": "Queensland trail Western Australia by 68 runs with 1 wicket remaining",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24426/queensland-bulls-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "South Australia Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men trail New South Wales by 214 runs with 7 wickets remaining",
+      "toss_result": "South Australia Men trail New South Wales by 114 runs with 6 wickets remaining",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24428/south-australia-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
