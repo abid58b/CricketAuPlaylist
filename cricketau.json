@@ -1,23 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "06-03-2026 : 06:07:49",
+  "last_update": "06-03-2026 : 07:15:46",
   "total_links": 4,
   "events": [
-    {
-      "title": "Tasmanian Tigers Men vs Victoria Men",
-      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
-      "status": "Live",
-      "toss_result": "Victoria lead Tasmania by 324 runs",
-      "venue": "Bellerive Oval, Hobart",
-      "match_link": "https://www.cricket.com.au/matches/CA:24427/tasmanian-tigers-men-victoria-men-sheffield-shield-2025-26",
-      "m3u8_link": ""
-    },
     {
       "title": "Queensland Bulls vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Western Australia lead Queensland by 99 runs with 10 wickets remaining",
+      "toss_result": "Western Australia lead Queensland by 153 runs with 10 wickets remaining",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24426/queensland-bulls-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +17,7 @@
       "title": "South Australia Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "South Australia Men lead New South Wales by 28 runs with 3 wickets remaining",
+      "toss_result": "South Australia Men lead New South Wales by 94 runs with 1 wicket remaining",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24428/south-australia-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -38,6 +29,15 @@
       "toss_result": "Australia Women won the toss and elected to bowl.",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:23428/australia-women-india-women-australia-v-india-test-women",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Tasmanian Tigers Men vs Victoria Men",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Tasmania need 278 runs to win",
+      "venue": "Bellerive Oval, Hobart",
+      "match_link": "https://www.cricket.com.au/matches/CA:24427/tasmanian-tigers-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
     }
   ]
