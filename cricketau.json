@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-03-2026 : 05:58:37",
+  "last_update": "07-03-2026 : 06:44:48",
   "total_links": 3,
   "events": [
     {
       "title": "Queensland Bulls vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Queensland need 258 runs to win",
+      "toss_result": "Queensland need 247 runs to win",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24426/queensland-bulls-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "South Australia Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Innings Break: South Australia Men need 95 runs to win",
+      "toss_result": "South Australia Men need 52 runs to win",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24428/south-australia-men-nsw-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,7 +26,7 @@
       "title": "Australia Women vs India Women",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3126.png",
       "status": "Live",
-      "toss_result": "Australia Women trail India Women by 69 runs with 7 wickets remaining",
+      "toss_result": "Australia Women trail India Women by 16 runs with 7 wickets remaining",
       "venue": "WACA Ground, Perth",
       "match_link": "https://www.cricket.com.au/matches/CA:23428/australia-women-india-women-australia-v-india-test-women",
       "m3u8_link": ""
