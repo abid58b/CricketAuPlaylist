@@ -1,14 +1,14 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "07-03-2026 : 04:06:14",
-  "total_links": 3,
+  "last_update": "07-03-2026 : 05:15:41",
+  "total_links": 4,
   "events": [
     {
       "title": "Tasmanian Tigers Men vs Victoria Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Tasmania need 114 runs to win",
+      "toss_result": "Tasmania need 85 runs to win",
       "venue": "Bellerive Oval, Hobart",
       "match_link": "https://www.cricket.com.au/matches/CA:24427/tasmanian-tigers-men-victoria-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -17,7 +17,7 @@
       "title": "Queensland Bulls vs Western Australia Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "Rain has stopped play",
+      "toss_result": "Western Australia lead Queensland by 262 runs with 2 wickets remaining",
       "venue": "Allan Border Field, Brisbane",
       "match_link": "https://www.cricket.com.au/matches/CA:24426/queensland-bulls-western-australia-men-sheffield-shield-2025-26",
       "m3u8_link": ""
@@ -26,9 +26,18 @@
       "title": "South Australia Men vs NSW Men",
       "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3196.png",
       "status": "Live",
-      "toss_result": "New South Wales lead South Australia Men by 32 runs with 2 wickets remaining",
+      "toss_result": "New South Wales lead South Australia Men by 60 runs with 2 wickets remaining",
       "venue": "Karen Rolton Oval, Adelaide",
       "match_link": "https://www.cricket.com.au/matches/CA:24428/south-australia-men-nsw-men-sheffield-shield-2025-26",
+      "m3u8_link": ""
+    },
+    {
+      "title": "Australia Women vs India Women",
+      "thumbnail": "https://static-files.cricket-australia.pulselive.com/series-web/60/3126.png",
+      "status": "Status Nahi Mila",
+      "toss_result": "Stumps: Australia Women trail India Women by 102 runs with 7 wickets remaining",
+      "venue": "WACA Ground, Perth",
+      "match_link": "https://www.cricket.com.au/matches/CA:23428/australia-women-india-women-australia-v-india-test-women",
       "m3u8_link": ""
     }
   ]
